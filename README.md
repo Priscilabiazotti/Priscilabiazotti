@@ -1,6 +1,5 @@
 👋Hello Word, eu sou a Priscila !
 <p>Apaixonada por tecnologia!🚀</p>
-<p>acredito no poder da tecnologia de impactar na vida humana🌎 </p>
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priscilabiazotti&show_icons=true&theme=radical"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilabiazotti&layout=compact&theme=tokyonight"/>
